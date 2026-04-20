@@ -76,7 +76,6 @@
 		{"id":73,"name":"Baby Alan","gender":"Male","spouseId":null,"parentfamilyid":47,"status":null,"fatherId":47,"motherId":49,"contactNo":null,"birthday":null,"marriageDay":null},
 		{"id":990,"name":"Test User1","gender":"Male","spouseId":991,"parentfamilyid":1,"status":"Alive","fatherId":7,"motherId":12,"contactNo":null,"birthday":"20-Apr-1990","marriageDay":"20-Apr-2015"},
 		{"id":991,"name":"Test User2","gender":"Female","spouseId":990,"parentfamilyid":null,"status":"Alive","fatherId":null,"motherId":null,"contactNo":null,"birthday":"20-Apr-1990","marriageDay":"20-Apr-2015"},
-		{"id":992,"name":"Test User3","gender":"Male","spouseId":null,"parentfamilyid":7,"status":"Deceased","fatherId":7,"motherId":12,"contactNo":null,"birthday":"20-Apr-1990","marriageDay":null},
-		{"id":993,"name":"Test User4","gender":"Male","spouseId":null,"parentfamilyid":7,"status":"Alive","fatherId":7,"motherId":12,"contactNo":null,"birthday":"20-Apr-1990","marriageDay":null}
+		{"id":992,"name":"Test User3","gender":"Male","spouseId":null,"parentfamilyid":7,"status":"Deceased","fatherId":7,"motherId":12,"contactNo":null,"birthday":"20-Apr-1990","marriageDay":null}
 	]
 }
