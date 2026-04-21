@@ -8,8 +8,8 @@
             "personId": 37,
             "title": "🎂 Birthday Announcement 🎂",
             "message": "Today (20-Apr-2024) is the birthday of Mr Jeyakumar. Wish him a Happy Birthday! May God bless him abundantly.",
-            "startDate": "2024-04-20",
-            "endDate": "2024-04-20",
+            "startDate": "2024-04-21",
+            "endDate": "2024-04-21",
             "priority": "high"
         },
         {
@@ -19,8 +19,8 @@
             "spouseId": 27,
             "title": "💍 Wedding Anniversary 💍",
             "message": "Today (20-Apr-2024) is the wedding anniversary of Mr Reginald and Mrs Kanmani. Wish them a happy and long married life!",
-            "startDate": "2024-04-20",
-            "endDate": "2024-04-20",
+            "startDate": "2024-04-21",
+            "endDate": "2024-04-21",
             "priority": "high"
         },
         {
@@ -28,8 +28,8 @@
             "type": "general",
             "title": "📢 Family Announcement 📢",
             "message": "Family reunion planned for next month. Please save the date! More details coming soon.",
-            "startDate": "2024-04-20",
-            "endDate": "2024-05-20",
+            "startDate": "2024-04-21",
+            "endDate": "2024-05-21",
             "priority": "normal"
         },
         {
@@ -37,7 +37,7 @@
             "type": "prayer",
             "title": "🙏 Prayer Request 🙏",
             "message": "Please pray for the speedy recovery of Mrs Sugantham who is unwell.",
-            "startDate": "2024-04-20",
+            "startDate": "2024-04-21",
             "endDate": "2024-04-27",
             "priority": "high"
         }
