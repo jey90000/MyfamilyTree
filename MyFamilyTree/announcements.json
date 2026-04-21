@@ -3,13 +3,22 @@
     "lastUpdated": "2024-04-21",
     "messages": [
         {
-            "id": 100,
+            "id": 1,
             "type": "test",
             "title": "🎉 TEST ANNOUNCEMENT 🎉",
-            "message": "If you can see this message, announcements are working correctly! Today is " + new SimpleDateFormat("dd-MMM-yyyy").format(new Date()),
+            "message": "This is a test announcement. If you can see this, announcements are working!",
             "startDate": "2024-01-01",
             "endDate": "2025-12-31",
             "priority": "high"
+        },
+        {
+            "id": 2,
+            "type": "welcome",
+            "title": "📢 Welcome to Family Tree 📢",
+            "message": "Welcome to the Annamalai Family Tree app. Stay connected with your family!",
+            "startDate": "2024-01-01",
+            "endDate": "2025-12-31",
+            "priority": "normal"
         }
     ]
 }
