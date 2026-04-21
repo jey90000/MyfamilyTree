@@ -3,7 +3,7 @@
     "lastUpdated": "2024-04-21",
     "messages": [
         {
-            "id": 1,
+            "id": 10,
             "type": "test",
             "title": "🎉 TEST ANNOUNCEMENT 🎉",
             "message": "This is a test announcement. If you can see this, announcements are working!",
@@ -12,7 +12,7 @@
             "priority": "high"
         },
         {
-            "id": 2,
+            "id": 11,
             "type": "welcome",
             "title": "📢 Welcome to Family Tree 📢",
             "message": "Welcome to the Annamalai Family Tree app. Stay connected with your family!",
