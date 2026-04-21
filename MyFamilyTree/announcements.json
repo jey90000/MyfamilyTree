@@ -1,44 +1,14 @@
 {
     "active": true,
-    "lastUpdated": "2024-04-20",
+    "lastUpdated": "2024-04-21",
     "messages": [
         {
-            "id": 1,
-            "type": "birthday",
-            "personId": 37,
-            "title": "🎂 Birthday Announcement 🎂",
-            "message": "Today (20-Apr-2024) is the birthday of Mr Jeyakumar. Wish him a Happy Birthday! May God bless him abundantly.",
-            "startDate": "2024-04-21",
-            "endDate": "2024-04-21",
-            "priority": "high"
-        },
-        {
-            "id": 2,
-            "type": "anniversary",
-            "personId": 25,
-            "spouseId": 27,
-            "title": "💍 Wedding Anniversary 💍",
-            "message": "Today (20-Apr-2024) is the wedding anniversary of Mr Reginald and Mrs Kanmani. Wish them a happy and long married life!",
-            "startDate": "2024-04-21",
-            "endDate": "2024-04-21",
-            "priority": "high"
-        },
-        {
-            "id": 3,
-            "type": "general",
-            "title": "📢 Family Announcement 📢",
-            "message": "Family reunion planned for next month. Please save the date! More details coming soon.",
-            "startDate": "2024-04-21",
-            "endDate": "2024-05-21",
-            "priority": "normal"
-        },
-        {
-            "id": 4,
-            "type": "prayer",
-            "title": "🙏 Prayer Request 🙏",
-            "message": "Please pray for the speedy recovery of Mrs Sugantham who is unwell.",
-            "startDate": "2024-04-21",
-            "endDate": "2024-04-27",
+            "id": 100,
+            "type": "test",
+            "title": "🎉 TEST ANNOUNCEMENT 🎉",
+            "message": "If you can see this message, announcements are working correctly! Today is " + new SimpleDateFormat("dd-MMM-yyyy").format(new Date()),
+            "startDate": "2024-01-01",
+            "endDate": "2025-12-31",
             "priority": "high"
         }
     ]
