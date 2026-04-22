@@ -1,14 +1,14 @@
 {
     "active": true,
-    "lastUpdated": "2026-04-21",
+    "lastUpdated": "2026-04-22",
     "messages": [
         {
             "id": 31,
             "type": "test",
             "title": "🎉 TEST ANNOUNCEMENT 🎉",
             "message": "This is a test announcement. If you can see this, announcements are working!",
-            "startDate": "2024-01-01",
-            "endDate": "2027-12-31",
+            "startDate time hh:mm:ss": "2024-01-01 00:00:00",
+            "endDate time hh:mm:ss": "2027-12-31 23:59:59",
             "priority": "high"
         },
         {
@@ -16,8 +16,8 @@
             "type": "welcome",
             "title": "📢 Welcome to Family Tree 📢",
             "message": "Welcome to the Annamalai Family Tree app. Stay connected with your family!",
-            "startDate": "2024-01-01",
-            "endDate": "2027-12-31",
+            "startDate time hh:mm:ss": "2024-01-01 00:00:00",
+            "endDate time hh:mm:ss": "2027-12-31 23:59:59",
             "priority": "normal"
         }
     ]
