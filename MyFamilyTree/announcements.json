@@ -1,6 +1,6 @@
 {
     "active": true,
-    "lastUpdated": "2026-04-22 14:50:58",
+    "lastUpdated": "2026-04-26 12:54:42",
     "messages": [
         {
             "id": 31,
@@ -35,6 +35,15 @@
             "title": "Birthday Anniversary announcement 1",
             "message": "Happy Birthday ",
             "startDate time hh:mm:ss": "2026-04-22 13:59:43",
+            "endDate time hh:mm:ss": "2027-12-31 23:59:59",
+            "priority": "normal"
+        },
+        {
+            "id": 35,
+            "type": "custom",
+            "title": "Best Wishes",
+            "message": "pl attend a meeting on 21-May-2026 at our house. Address Tuticorin.",
+            "startDate time hh:mm:ss": "2026-04-26 12:53:12",
             "endDate time hh:mm:ss": "2027-12-31 23:59:59",
             "priority": "normal"
         }
