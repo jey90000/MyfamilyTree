@@ -1,61 +1,48 @@
 {
-  "active": true,
-  "lastUpdated": "2026-04-28 18:00:00",
-  "messages": [
-    {
-      "id": 1,
-      "type": "test",
-      "title": "🎉 TEST ANNOUNCEMENT 🎉",
-      "message": "This is a test announcement. If you can see this, announcements are working!",
-      "startDate": "2024-01-01 00:00:00",
-      "endDate": "2026-04-22 14:59:59",
-      "priority": "urgent",
-      "createdBy": "Admin",
-      "createdOn": "2026-04-28 15:30:00"
-    },
-    {
-      "id": 2,
-      "type": "wishes",
-      "title": "📢 Welcome to Family Tree 📢",
-      "message": "Welcome to the Annamalai Family Tree app. Stay connected with your family!",
-      "startDate": "2024-01-01 00:00:00",
-      "endDate": "2027-12-31 23:59:59",
-      "priority": "normal",
-      "createdBy": "Family Admin",
-      "createdOn": "2026-04-28 15:30:00"
-    },
-    {
-      "id": 3,
-      "type": "wishes",
-      "title": "Happy Birthday!",
-      "message": "Wishing you a happy birthday. May God bless you!",
-      "startDate": "2026-05-01 00:00:00",
-      "endDate": "2026-05-31 23:59:59",
-      "priority": "normal",
-      "createdBy": "Jeyakumar",
-      "createdOn": "2026-04-27 15:30:00"
-    },
-    {
-      "id": 4,
-      "type": "wishes",
-      "title": "Happy Anniversary!",
-      "message": "Wishing you both a wonderful day!",
-      "startDate": "2026-05-01 00:00:00",
-      "endDate": "2026-05-31 23:59:59",
-      "priority": "normal",
-      "createdBy": "Admin",
-      "createdOn": "2026-04-26 15:30:00"
-    },
-    {
-      "id": 5,
-      "type": "special",
-      "title": "Prayer Request",
-      "message": "Please pray for our family gathering to be held today at 6:00 PM at our residence",
-      "startDate": "2026-04-28 00:00:00",
-      "endDate": "2026-05-28 23:59:59",
-      "priority": "urgent",
-      "createdBy": "Ramesh",
-      "createdOn": "2026-04-20 15:30:00"
-    }
-  ]
+    "active": true,
+    "lastUpdated": "2026-04-28 23:07:41",
+    "messages": [
+        {
+            "id": 1,
+            "type": "test",
+            "title": "🎉 TEST ANNOUNCEMENT 🎉",
+            "message": "This is a test announcement. If you can see this, announcements are working!",
+            "priority": "urgent",
+            "createdBy": "Admin"
+        },
+        {
+            "id": 2,
+            "type": "wishes",
+            "title": "📢 Welcome to Family Tree 📢",
+            "message": "Welcome to the Annamalai Family Tree app. Stay connected with your family!",
+            "priority": "normal",
+            "createdBy": "Family Admin"
+        },
+        {
+            "id": 3,
+            "type": "wishes",
+            "title": "Happy Birthday!",
+            "message": "Wishing you a happy birthday. May God bless you!",
+            "priority": "normal",
+            "createdBy": "Jeyakumar"
+        },
+        {
+            "id": 4,
+            "type": "wishes",
+            "title": "Happy Anniversary!",
+            "message": "Wishing you both a wonderful day!",
+            "priority": "normal",
+            "createdBy": "Admin"
+        },
+        {
+            "id": 5,
+            "type": "special",
+            "title": "Prayer Request",
+            "message": "Please pray for our family gathering to be held today at 6:00 PM at our residence",
+            "startDate time hh:mm:ss": "2026-04-28 23:07:00",
+            "endDate time hh:mm:ss": "2026-04-28 23:07:00",
+            "priority": "urgent",
+            "createdBy": "Ramesh"
+        }
+    ]
 }
