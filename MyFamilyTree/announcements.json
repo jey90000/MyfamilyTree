@@ -1,6 +1,6 @@
 {
     "active": true,
-    "lastUpdated": "2026-04-28 23:07:41",
+    "lastUpdated": "2026-04-28 23:09:19",
     "messages": [
         {
             "id": 1,
@@ -37,10 +37,10 @@
         {
             "id": 5,
             "type": "special",
-            "title": "Prayer Request",
+            "title": "Prayer Request1",
             "message": "Please pray for our family gathering to be held today at 6:00 PM at our residence",
-            "startDate time hh:mm:ss": "2026-04-28 23:07:00",
-            "endDate time hh:mm:ss": "2026-04-28 23:07:00",
+            "startDate time hh:mm:ss": "",
+            "endDate time hh:mm:ss": "",
             "priority": "urgent",
             "createdBy": "Ramesh"
         }
