@@ -1,91 +1,90 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile - Mr. Annamalai</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
         body {
-            font-family: 'Poppins', sans-serif;
-            margin: 8px;
-            background-color: #f9f9f9;
-            line-height: 1.2;
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 8px;
+            background-color: #FAFAFA;
         }
-        h1 {
-            font-size: 18px;
-            margin: 0 0 6px 0;
-            text-align: center;
+        .info-row {
+            margin: 6px 0;
+            font-size: 13px;
+            line-height: 1.4;
+            color: #333;
         }
-        h2 {
+        .info-row strong {
+            color: #2196F3;
+            font-weight: 600;
+            display: inline-block;
+            min-width: 85px;
+        }
+        .section-title {
             font-size: 14px;
-            margin: 6px 0 2px 0;
+            font-weight: bold;
+            color: #2196F3;
+            margin: 12px 0 6px 0;
+            padding-bottom: 3px;
+            border-bottom: 1px solid #E0E0E0;
         }
-        p {
-            margin: 2px 0;
-            font-size: 11px;
-        }
-        li {
-            font-size: 11px;
-            margin: 1px 0;
-        }
-        .info-box {
-            background-color: #eef;
-            padding: 6px;
-            border-radius: 6px;
+        .interest-item {
             margin: 4px 0;
+            font-size: 13px;
+            color: #555;
+            padding-left: 20px;
         }
-        .fun-fact {
-            background-color: #ffe;
-            padding: 6px;
-            border-left: 4px solid #ffcc00;
-            margin-top: 6px;
+        .fun-fact-box {
+            background-color: #FFF8E1;
+            padding: 8px;
+            margin: 10px 0;
+            border-left: 4px solid #FFC107;
+            font-size: 13px;
+            color: #555;
+        }
+        .fun-fact-box strong {
+            color: #FF9800;
         }
         hr {
-            margin: 6px 0;
+            margin: 10px 0;
+            border: none;
+            height: 1px;
+            background-color: #E0E0E0;
         }
-        .last-updated {
+        .footer {
             text-align: center;
-            font-size: 9px;
+            font-size: 10px;
             color: #999;
-            margin: 4px 0 0 0;
+            margin-top: 8px;
         }
     </style>
 </head>
 <body>
 
-<div>
-    <h1>✨ Mr. Annamalai ✨</h1>
+    <!-- Info rows with consistent alignment -->
+    <div class="info-row"><strong>📅 Born:</strong> 15th August 1979</div>
+    <div class="info-row"><strong>💼 Occupation:</strong> Senior Software Engineer</div>
+    <div class="info-row"><strong>📍 Hometown:</strong> Tuticorin, Tamil Nadu</div>
+    <div class="info-row"><strong>📧 Email:</strong> annamalai@example.com</div>
+    <div class="info-row"><strong>📱 Phone:</strong> +91 98765 43210</div>
 
-    <div class="info-box">
-        <p>📅 Born: 15th August 1979</p>
-        <p>💼 Occupation: Senior Software Engineer</p>
-        <p>📍 Hometown: Tuticorin, Tamil Nadu</p>
-        <p>📧 Email: annamalai@example.com</p>
-        <p>📱 Phone: +91 98765 43210</p>
-    </div>
+    <!-- About Section -->
+    <div class="section-title">📖 About</div>
+    <div class="info-row">Mr. Annamalai is the founder of the Family Tree app. He is passionate about technology and family traditions. He enjoys reading books, gardening, and spending time with his grandchildren.</div>
 
-    <h2>📖 About</h2>
-    <p>Mr. Annamalai is the founder of the Family Tree app. He is passionate about technology and family traditions. He enjoys reading books, gardening, and spending time with his grandchildren.</p>
+    <!-- Interests Section -->
+    <div class="section-title">🎯 Interests</div>
+    <div class="interest-item">• Reading historical books</div>
+    <div class="interest-item">• Gardening and nature walks</div>
+    <div class="interest-item">• Spending time with grandchildren</div>
 
-    <h2>🎯 Interests</h2>
-    <ul style="margin: 2px 0; padding-left: 20px;">
-        <li>Reading historical books</li>
-        <li>Gardening and nature walks</li>
-    </ul>
-
-    <div class="fun-fact">
-        <p><strong>🎵 Fun Fact:</strong> He loves to sing classical music!</p>
-    </div>
+    <!-- Fun Fact -->
+    <div class="fun-fact-box"><strong>🎵 Fun Fact:</strong> He loves to sing classical music!</div>
 
     <hr>
-    <p class="last-updated">Last updated: April 2026</p>
-</div>
+    <div class="footer">Last updated: April 2026</div>
 
 </body>
 </html>
