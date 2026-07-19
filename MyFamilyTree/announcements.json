@@ -18,7 +18,7 @@
             "title": "📢 Welcome to Family Tree 📢",
             "message": "Welcome to the Annamalai Family Tree app. Stay connected with our family!",
             "startDate time hh:mm:ss": "2024-01-01 00:00:00",
-            "endDate time hh:mm:ss": "2027-12-31 23:59:59",
+            "endDate time hh:mm:ss": "2025-12-31 23:59:59",
             "priority": "normal",
             "createdBy": "Family Admin"
         },
@@ -77,8 +77,8 @@
             "type": "special",
             "title": "Prayer Request",
             "message": "Please Pray for our family",
-            "startDate time hh:mm:ss": "2026-05-05 20:34:00",
-            "endDate time hh:mm:ss": "2027-12-31 23:59:00",
+            "startDate time hh:mm:ss": "2025-05-05 20:34:00",
+            "endDate time hh:mm:ss": "2025-12-31 23:59:00",
             "priority": "urgent",
             "createdBy": "Admin"
         },
@@ -87,8 +87,8 @@
             "type": "test",
             "title": "greetings ",
             "message": "at hotel Raj",
-            "startDate time hh:mm:ss": "2026-05-20 14:34:00",
-            "endDate time hh:mm:ss": "2027-12-31 23:59:00",
+            "startDate time hh:mm:ss": "2025-05-20 14:34:00",
+            "endDate time hh:mm:ss": "2025-12-31 23:59:00",
             "priority": "urgent",
             "createdBy": "Thambu"
         },
@@ -97,8 +97,8 @@
             "type": "special",
             "title": "Prayer Meeting ",
             "message": "please attend",
-            "startDate time hh:mm:ss": "2026-05-14 13:26:00",
-            "endDate time hh:mm:ss": "2027-12-31 23:59:00",
+            "startDate time hh:mm:ss": "2025-05-14 13:26:00",
+            "endDate time hh:mm:ss": "2025-12-31 23:59:00",
             "priority": "urgent",
             "createdBy": "Admin"
         }
