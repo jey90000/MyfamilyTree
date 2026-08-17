@@ -78,6 +78,9 @@
 		{"id":78,"name":"Master Nathaniel","gender":"Male","spouseId":null,"parentfamilyid":53,"status":null,"fatherId":55,"motherId":53,"contactNo":null,"birthday":"10-Sep-1990","marriageDay":null},
 		{"id":79,"name":"Ms Venetia Samuel","gender":"Female","spouseId":null,"parentfamilyid":56,"status":null,"fatherId":56,"motherId":57,"contactNo":null,"birthday":"22-Jan-2018","marriageDay":null},
 		{"id":80,"name":"Ms Liana Samuel","gender":"Male","spouseId":null,"parentfamilyid":56,"status":null,"fatherId":56,"motherId":57,"contactNo":null,"birthday":"21-Apr-2021","marriageDay":null},
+		{"id":501,"name":"Arul","gender":"Male","spouseId":502,"parentfamilyid":1,"status":null,"fatherId":null,"motherId":null,"contactNo":null,"birthday":null,"marriageDay":null},
+		{"id":502,"name":"Arul Wife","gender":"Female","spouseId":502,"parentfamilyid":1,"status":null,"fatherId":null,"motherId":null,"contactNo":null,"birthday":null,"marriageDay":null},
+		{"id":503,"name":"Adlin","gender":"Female","spouseId":null,"parentfamilyid":1,"status":null,"fatherId":501,"motherId":502,"contactNo":null,"birthday":"17-Aug-2003","marriageDay":null},
 		{"id":990,"name":"Test User1 Long Name for Testing","gender":"Male","spouseId":991,"parentfamilyid":1,"status":null,"fatherId":7,"motherId":12,"contactNo":null,"birthday":"14-May-1990","marriageDay":"8-May-2015"},
 		{"id":991,"name":"Test User2","gender":"Female","spouseId":990,"parentfamilyid":null,"status":null,"fatherId":null,"motherId":null,"contactNo":null,"birthday":"8-May-1990","marriageDay":"14-May-2015"}
 	]
