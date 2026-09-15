@@ -82,6 +82,6 @@
 		{"id":502,"name":"Mrs Sheela","gender":"Female","spouseId":501,"parentfamilyid":1,"status":null,"fatherId":null,"motherId":null,"contactNo":null,"birthday":null,"marriageDay":"23-Aug-2002"},
 		{"id":503,"name":"Ms Adlin","gender":"Female","spouseId":null,"parentfamilyid":1,"status":null,"fatherId":501,"motherId":502,"contactNo":null,"birthday":"17-Aug-2003","marriageDay":null},
 		{"id":990,"name":"Test User1 Long Name for Testing","gender":"Male","spouseId":991,"parentfamilyid":1,"status":null,"fatherId":7,"motherId":12,"contactNo":null,"birthday":"15-Sep-1990","marriageDay":"8-May-2015"},
-		{"id":991,"name":"Test User2","gender":"Female","spouseId":990,"parentfamilyid":null,"status":null,"fatherId":null,"motherId":null,"contactNo":null,"birthday":"8-May-1990","marriageDay":"14-May-2015"}
+		{"id":991,"name":"Test User2","gender":"Female","spouseId":990,"parentfamilyid":null,"status":null,"fatherId":null,"motherId":null,"contactNo":null,"birthday":"16-Sep-1990","marriageDay":"14-May-2015"}
 	]
 }
