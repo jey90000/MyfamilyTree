@@ -8,7 +8,7 @@
             "title": "🎉 TEST ANNOUNCEMENT 🎉",
             "message": "This is a test announcement. If you can see this, announcements are working!",
             "startDate time hh:mm:ss": "2026-11-11 00:00:00",
-            "endDate time hh:mm:ss": "2026-12-31 14:59:59",
+            "endDate time hh:mm:ss": "2026-12-30 14:59:59",
             "priority": "urgent",
             "createdBy": "Admin"
         },
